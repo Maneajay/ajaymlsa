@@ -28,7 +28,7 @@ const siteProps = {
   title: "Web Designer & Content Creator",
   email: "alex@example.com",
   gitHub: "microsoft",
-  instagram: "microsoft",
+  instagram: "",
   linkedIn: "satyanadella",
   medium: "",
   twitter: "microsoft",
